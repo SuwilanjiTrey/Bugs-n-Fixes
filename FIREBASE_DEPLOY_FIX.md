@@ -38,7 +38,7 @@ This file tells Firebase which project to deploy to:
 cat > .firebaserc <<'EOF'
 {
   "projects": {
-    "default": "skillforge-01185"
+    "default": "project-name"
   }
 }
 EOF
